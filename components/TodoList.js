@@ -1,4 +1,4 @@
-"use client"; // Biar bisa pake state (client-side)
+"use client";
 
 import { useState } from "react";
 
